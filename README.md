@@ -56,14 +56,6 @@ The dashboard includes the following visualizations:
 - Historical football performance analysis.
 - Clean and interactive dashboard layout.
 
-## 📂 Project Structure
-
-```text
-FIFA-World-Cup-Analysis/
-│
-├── FIFA_World_Cup_Analysis.pbix
-└── README.md
-```
 
 ## 🚀 How to Use
 
